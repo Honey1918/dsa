@@ -1,12 +1,3 @@
-
-/* 	DSA Project 
-	BSCS-8-B 
-	Phone Directory
-	Abdul Rahman Jawad 258729
-	Ahmed Rehman Chauhan 247321
-	Haider Ahmed 249297	
-*/
-
 #include<iostream>
 #include<fstream>
 #include<string.h>
